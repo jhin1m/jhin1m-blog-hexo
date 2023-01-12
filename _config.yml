@@ -13,7 +13,7 @@ timezone: 'Asia/Ho_Chi_Minh'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://jhin1m.github.io
 root: /
 permalink: :title/ # edit for Theme.shoka
 permalink_defaults:

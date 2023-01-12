@@ -108,9 +108,7 @@ symbol:
 reward:
   donate: Donate
   text: Give me a cup of [coffee]~(￣▽￣)~*
-  wechatpay: WeChat Pay
-  alipay: Alipay
-  paypal: PayPal
+  Momopay: Momo Pay
   bitcoin: Bitcoin
 
 follow_me:
